@@ -214,7 +214,7 @@ const styles = StyleSheet.create({
         backgroundColor: "#9932CC",
         padding: 15,
         borderRadius: 5,
-        marginBottom: 10
+        marginBottom: 30
     },
     listTitle:{
         fontSize: 18,
