@@ -176,8 +176,10 @@ export default function App() {
 const styles = StyleSheet.create({
     container:{
         flex: 1,
-        padding: 20,
-        backgroundColor: "#FFF0F5"
+        paddingHorizontal: 20,
+        backgroundColor: "#FFF0F5",
+        paddingTop: 50,
+        paddingBottom: 20
 
     },
     title:{
